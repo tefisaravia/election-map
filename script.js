@@ -35,7 +35,6 @@ betsy.electionResults = [5, 1, 7, 2, 38, 6, 4, 2, 1, 28, 8, 3, 1, 11, 11, 0, 5, 
 
 //Assign the winner of the state per the Results per state
 
-//MOVERLO AQUI ADENTROOOOOO
 var setStateResults = function (state){
 
   theStates[state].winner = null;
